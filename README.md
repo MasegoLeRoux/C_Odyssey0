@@ -2,7 +2,7 @@
 <h1 align="center"> C++_Odyssey/Welcome to C++ Project Showcase</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" alt="Project Preview">
+  <img src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif" alt="Project Preview" height="300" width = "1000">
 </p>
 
 Hello and welcome to the C++ Project Showcase! Here, I'll be sharing a series of C++ projects that highlight my coding skills, creativity, and problem-solving abilities. Whether you're a fellow programmer, an enthusiast, or a curious mind, you're invited to explore this repository and witness the world of C++ coding in action.
