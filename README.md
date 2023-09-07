@@ -11,6 +11,12 @@ Hello and welcome to the C++ Project Showcase! Here, I'll be sharing a series of
 
 📅 **Project Schedule:** Expect a new C++ project upload every three days. With a consistent cadence of uploads, there's always something fresh and exciting to discover.
 
+## Overview 
+<h1 align="center">Project_1_Account Information System</h1>
+
+This C++ program is a simple account information system that allows you to manage account records. You can perform various operations such as adding, displaying, searching, updating, and deleting records. All account data is stored in a binary file named "record.bank."
+
+
 ## For Recruiters
 
 Dear recruiters, thank you for taking the time to explore this repository. As you navigate through the projects, you'll gain insights into my proficiency in C++ programming, algorithmic thinking, and software design. Each project showcases a different aspect of my skills, and I invite you to assess how I approach problems and build solutions.
